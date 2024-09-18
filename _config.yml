@@ -7,8 +7,10 @@ email: Cyber-Song@163.com
 url: https://riggraz.dev # root address of the site
 # baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+# description: > # description of the site (multiple lines allowed)
+#  A (nearly) no-CSS, fast, minimalist Jekyll theme.
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  亲爱的陌生人，祝您所求皆所愿，所行化坦途，多喜乐，常安宁；
 
 permalink: /:slug.html
 
